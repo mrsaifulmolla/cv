@@ -24,8 +24,8 @@ h1, .txt-design{
 }
 .top-cloud{
     position: absolute;
-    top: 10%;
-    right: 17%;
+    top: 45px;
+    right: 300px;
 }
 .bottam-cloud{
     position: absolute;
@@ -58,9 +58,8 @@ p{
     margin: 6px;
 }
 .bottom-container a:hover, .contact-me a:hover{
-    background-color: rgb(64, 98, 192);
+    background-color: rgb(0, 0, 0);
     color: white;
-    border-radius: 10%;
 }
 h1, h2{
     color: #66BFBF;
